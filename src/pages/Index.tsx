@@ -79,7 +79,7 @@ const Index = () => {
               {/* Centered Download Button */}
               <div className="flex justify-center my-8">
                 <DownloadButton 
-                  href="https://drive.google.com/uc?export=download&id=1ikxQeWIgV7SQ_fchxAG8TupRoLYvAegO"
+                  href="https://github.com/VidyaSinha/DrawYourPixel/releases/download/v1.0.0/AirCanvas.exe"
                   className="scale-110 hover:scale-125 transition-transform"
                 />
               </div>
